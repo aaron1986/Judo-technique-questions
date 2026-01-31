@@ -2,61 +2,61 @@ export const songs = [
   {
     id: 1,
     title: "Ippon Seoi Nage",
-    audio: "./assets/Audio/Ippon_Seoi_Nage.mp3",
+    audio: "../assets/Audio/Ippon_Seoi_Nage.mp3",
     options: [
-      { img: "./assets/img/correct_ans.png", isCorrect: true },
-      { img: "./assets/img/incorrect_ans_2.png", isCorrect: false },
-      { img: "./assets/img/incorrect_ans_3.png", isCorrect: false }
+      { img: "../assets/img/correct_ans.png", isCorrect: true },
+      { img: "../assets/img/incorrect_ans_2.png", isCorrect: false },
+      { img: "../assets/img/incorrect_ans_3.png", isCorrect: false }
     ]
   },
   {
     id: 2,
     title: "Tai-Otoshi",
-    audio: "./assets/Audio/Tai_Otoshi.mp3",
+    audio: "../assets/Audio/Tai_Otoshi.mp3",
     options: [
-      { img: "./assets/img/correct_ans.png", isCorrect: false },
-      { img: "./assets/img/tai_correct.png", isCorrect: true  },
-      { img: "./assets/img/incorrect_ans_2.png", isCorrect: false }
+      { img: "../assets/img/correct_ans.png", isCorrect: false },
+      { img: "../assets/img/tai_correct.png", isCorrect: true  },
+      { img: "../assets/img/incorrect_ans_2.png", isCorrect: false }
     ]
   },
     {
     id: 3,
     title: "Yoko Shiho Gatame",
-    audio: "./assets/Audio/Yoko Shiho Gatame.mp3",
+    audio: "../assets/Audio/Yoko Shiho Gatame.mp3",
     options: [
-      { img: "./assets/img/four_quarters_correct.png", isCorrect: true },
-      { img: "./assets/img/lengthwise_correct.png", isCorrect: false },
-      { img: "./assets/img/upper_correct.png", isCorrect: false }
+      { img: "../assets/img/four_quarters_correct.png", isCorrect: true },
+      { img: "../assets/img/lengthwise_correct.png", isCorrect: false },
+      { img: "../assets/img/upper_correct.png", isCorrect: false }
     ]
   },
      {
     id: 4,
     title: "Hidari Shizentai",
-    audio: "./assets/Audio/Hidari Shizentai.mp3",
+    audio: "../assets/Audio/Hidari Shizentai.mp3",
     options: [
-      { img: "./assets/img/left_grip_correct.png", isCorrect: true },
-      { img: "./assets/img/right_grip_correct.png", isCorrect: false },
-      { img: "./assets/img/standing_correct.png", isCorrect: false }
+      { img: "../assets/img/left_grip_correct.png", isCorrect: true },
+      { img: "../assets/img/right_grip_correct.png", isCorrect: false },
+      { img: "../assets/img/standing_correct.png", isCorrect: false }
     ]
   },
        {
     id: 5,
     title: "Migi Shizentai",
-    audio: "./assets/Audio/Migi Shizentai.mp3",
+    audio: "../assets/Audio/Migi Shizentai.mp3",
     options: [
-      { img: "./assets/img/left_grip_correct.png", isCorrect: false },
-      { img: "./assets/img/right_grip_correct.png", isCorrect: true },
-      { img: "./assets/img/standing_correct.png", isCorrect: false }
+      { img: "../assets/img/left_grip_correct.png", isCorrect: false },
+      { img: "../assets/img/right_grip_correct.png", isCorrect: true },
+      { img: "../assets/img/standing_correct.png", isCorrect: false }
     ]
   },
        {
     id: 6,
     title: "Osaekomi-waza",
-    audio: "./assets/Audio/Osaekomi waza.mp3",
+    audio: "../assets/Audio/Osaekomi waza.mp3",
     options: [
-      { img: "./assets/img/standing_technique_correct.png", isCorrect: false },
-      { img: "./assets/img/right_grip_correct.png", isCorrect: false },
-      { img: "./assets/img/hold_down_correct.png", isCorrect: true }
+      { img: "../assets/img/standing_technique_correct.png", isCorrect: false },
+      { img: "../assets/img/right_grip_correct.png", isCorrect: false },
+      { img: "../assets/img/hold_down_correct.png", isCorrect: true }
     ]
   },
        {
