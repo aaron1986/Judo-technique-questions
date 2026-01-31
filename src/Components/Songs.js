@@ -32,101 +32,101 @@ export const songs = [
      {
     id: 4,
     title: "Hidari Shizentai",
-    audio: "/Audio/Hidari Shizentai.mp3",
+    audio: "./Audio/Hidari Shizentai.mp3",
     options: [
-      { img: "/img/left_grip_correct.png", isCorrect: true },
-      { img: "/img/right_grip_correct.png", isCorrect: false },
-      { img: "/img/standing_correct.png", isCorrect: false }
+      { img: "./img/left_grip_correct.png", isCorrect: true },
+      { img: "./img/right_grip_correct.png", isCorrect: false },
+      { img: "./img/standing_correct.png", isCorrect: false }
     ]
   },
        {
     id: 5,
     title: "Migi Shizentai",
-    audio: "/Audio/Migi Shizentai.mp3",
+    audio: "./Audio/Migi Shizentai.mp3",
     options: [
-      { img: "/img/left_grip_correct.png", isCorrect: false },
-      { img: "/img/right_grip_correct.png", isCorrect: true },
-      { img: "/img/standing_correct.png", isCorrect: false }
+      { img: "./img/left_grip_correct.png", isCorrect: false },
+      { img: "./img/right_grip_correct.png", isCorrect: true },
+      { img: "./img/standing_correct.png", isCorrect: false }
     ]
   },
        {
     id: 6,
     title: "Osaekomi-waza",
-    audio: "/Audio/Osaekomi waza.mp3",
+    audio: "./Audio/Osaekomi waza.mp3",
     options: [
-      { img: "/img/standing_technique_correct.png", isCorrect: false },
-      { img: "/img/right_grip_correct.png", isCorrect: false },
-      { img: "/img/hold_down_correct.png", isCorrect: true }
+      { img: "./img/standing_technique_correct.png", isCorrect: false },
+      { img: "./img/right_grip_correct.png", isCorrect: false },
+      { img: "./img/hold_down_correct.png", isCorrect: true }
     ]
   },
        {
     id: 7,
     title: "Tachi-waza",
-    audio: "/Audio/Tachi waza.mp3",
+    audio: "./Audio/Tachi waza.mp3",
     options: [
-      { img: "/img/standing_technique_correct.png", isCorrect: true },
-      { img: "/img/left_grip_correct.png", isCorrect: false },
-      { img: "/img/hold_down_correct.png", isCorrect: false }
+      { img: "./img/standing_technique_correct.png", isCorrect: true },
+      { img: "./img/left_grip_correct.png", isCorrect: false },
+      { img: "./img/hold_down_correct.png", isCorrect: false }
     ]
   },
   {
     id: 8,
     title: "Kami-shiho-gatame",
-    audio: "/Audio/Kami shiho gatame.mp3",
+    audio: "./Audio/Kami shiho gatame.mp3",
     options: [
-      { img: "/img/four_quarters_correct.png", isCorrect: false },
-      { img: "/img/lengthwise_correct.png", isCorrect: false },
-      { img: "/img/upper_correct.png", isCorrect: true }
+      { img: "./img/four_quarters_correct.png", isCorrect: false },
+      { img: "./img/lengthwise_correct.png", isCorrect: false },
+      { img: "./img/upper_correct.png", isCorrect: true }
     ]
   },
   {
     id: 9,
     title: "Kumi-Kata",
-    audio: "/Audio/Kami kata.mp3",
+    audio: "./Audio/Kami kata.mp3",
     options: [
-      { img: "/img/Gripping_correct.png", isCorrect: true },
-      { img: "/img/left_grip_correct.png", isCorrect: false },
-      { img: "/img/right_grip_correct.png", isCorrect: false }
+      { img: "./img/Gripping_correct.png", isCorrect: true },
+      { img: "./img/left_grip_correct.png", isCorrect: false },
+      { img: "./img/right_grip_correct.png", isCorrect: false }
     ]
   },
   {
     id: 10,
     title: "Nage-Komi",
-    audio: "/Audio/Nage Komi.mp3",
+    audio: "./Audio/Nage Komi.mp3",
     options: [
-      { img: "/img/major_inner_reaping_correct.png", isCorrect: false},
-      { img: "/img/throwing_correct.png", isCorrect: true },
-      { img: "/img/standing_correct.png", isCorrect: false }
+      { img: "./img/major_inner_reaping_correct.png", isCorrect: false},
+      { img: "./img/throwing_correct.png", isCorrect: true },
+      { img: "./img/standing_correct.png", isCorrect: false }
     ]
   },
     {
     id: 11,
     title: "Mae Ukemi",
-    audio: "/Audio/Mae Ukemi.mp3",
+    audio: "./Audio/Mae Ukemi.mp3",
     options: [
-      { img: "/img/front_breakfall_correct.png", isCorrect: true },
-      { img: "/img/incorrect_ans_2.png", isCorrect: false },
-      { img: "/img/incorrect_ans_3.png", isCorrect: false }
+      { img: "./img/front_breakfall_correct.png", isCorrect: true },
+      { img: "./img/incorrect_ans_2.png", isCorrect: false },
+      { img: "./img/incorrect_ans_3.png", isCorrect: false }
     ]
   },
     {
     id: 12,
     title: "O-uchi-gari",
-    audio: "/Audio/O uchi gari.mp3",
+    audio: "./Audio/O uchi gari.mp3",
     options: [
-      { img: "/img/four_quarters_correct.png", isCorrect: false },
-      { img: "/img/major_inner_reaping_correct.png", isCorrect: true },
-      { img: "/img/tai_correct.png", isCorrect: false }
+      { img: "./img/four_quarters_correct.png", isCorrect: false },
+      { img: "./img/major_inner_reaping_correct.png", isCorrect: true },
+      { img: "./img/tai_correct.png", isCorrect: false }
     ]
   },
     {
     id: 13,
     title: "Tate-shiho-gatame",
-    audio: "/Audio/Tate shiho gatame.mp3",
+    audio: "./Audio/Tate shiho gatame.mp3",
     options: [
-      { img: "/img/lengthwise_correct.png", isCorrect: true },
-      { img: "/img/four_quarters_correct.png", isCorrect: false },
-      { img: "/img/upper_correct.png", isCorrect: false }
+      { img: "./img/lengthwise_correct.png", isCorrect: true },
+      { img: "./img/four_quarters_correct.png", isCorrect: false },
+      { img: "./img/upper_correct.png", isCorrect: false }
     ]
   }
 ];
