@@ -2,31 +2,31 @@ export const songs = [
   {
     id: 1,
     title: "Ippon Seoi Nage",
-    audio: "/Audio/Ippon_Seoi_Nage.mp3",
+    audio: "./Audio/Ippon_Seoi_Nage.mp3",
     options: [
-      { img: "/img/correct_ans.png", isCorrect: true },
-      { img: "/img/incorrect_ans_2.png", isCorrect: false },
-      { img: "/img/incorrect_ans_3.png", isCorrect: false }
+      { img: "./img/correct_ans.png", isCorrect: true },
+      { img: "./img/incorrect_ans_2.png", isCorrect: false },
+      { img: "./img/incorrect_ans_3.png", isCorrect: false }
     ]
   },
   {
     id: 2,
     title: "Tai-Otoshi",
-    audio: "/Audio/Tai_Otoshi.mp3",
+    audio: "./Audio/Tai_Otoshi.mp3",
     options: [
-      { img: "/img/correct_ans.png", isCorrect: false },
-      { img: "/img/tai_correct.png", isCorrect: true  },
-      { img: "/img/incorrect_ans_2.png", isCorrect: false }
+      { img: "./img/correct_ans.png", isCorrect: false },
+      { img: "./img/tai_correct.png", isCorrect: true  },
+      { img: "./img/incorrect_ans_2.png", isCorrect: false }
     ]
   },
     {
     id: 3,
     title: "Yoko Shiho Gatame",
-    audio: "/Audio/Yoko Shiho Gatame.mp3",
+    audio: "./Audio/Yoko Shiho Gatame.mp3",
     options: [
-      { img: "/img/four_quarters_correct.png", isCorrect: true },
-      { img: "/img/lengthwise_correct.png", isCorrect: false },
-      { img: "/img/upper_correct.png", isCorrect: false }
+      { img: "./img/four_quarters_correct.png", isCorrect: true },
+      { img: "./img/lengthwise_correct.png", isCorrect: false },
+      { img: "./img/upper_correct.png", isCorrect: false }
     ]
   },
      {
