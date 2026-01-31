@@ -2,11 +2,11 @@ export const songs = [
   {
     id: 1,
     title: "Ippon Seoi Nage",
-    audio: "./src/assets/audio/Ippon_Seoi_Nage.mp3",
+    audio: "../assets/audio/Ippon_Seoi_Nage.mp3",
     options: [
-      { img: "./src/assets/img/correct_ans.png", isCorrect: true },
-      { img: "./src/assets/img/incorrect_ans_2.png", isCorrect: false },
-      { img: "./src/assets/img/incorrect_ans_3.png", isCorrect: false }
+      { img: "../assets/img/correct_ans.png", isCorrect: true },
+      { img: ../assets/img/incorrect_ans_2.png", isCorrect: false },
+      { img: "../assets/img/incorrect_ans_3.png", isCorrect: false }
     ]
   },
   {
