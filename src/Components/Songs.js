@@ -5,7 +5,7 @@ export const songs = [
     audio: "../assets/audio/Ippon_Seoi_Nage.mp3",
     options: [
       { img: "../assets/img/correct_ans.png", isCorrect: true },
-      { img: ../assets/img/incorrect_ans_2.png", isCorrect: false },
+      { img: "../assets/img/incorrect_ans_2.png", isCorrect: false },
       { img: "../assets/img/incorrect_ans_3.png", isCorrect: false }
     ]
   },
