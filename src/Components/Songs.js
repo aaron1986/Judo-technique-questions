@@ -12,31 +12,31 @@ export const songs = [
   {
     id: 2,
     title: "Tai-Otoshi",
-    audio: "./src/assets/audio/Tai_Otoshi.mp3",
+    audio: "../assets/audio/Tai_Otoshi.mp3",
     options: [
-      { img: "./src/assets/img/correct_ans.png", isCorrect: false },
-      { img: "./src/assets/img/tai_correct.png", isCorrect: true },
-      { img: "./src/assets/img/incorrect_ans_2.png", isCorrect: false }
+      { img: "../assets/img/correct_ans.png", isCorrect: false },
+      { img: "../assets/img/tai_correct.png", isCorrect: true },
+      { img: "../assets/img/incorrect_ans_2.png", isCorrect: false }
     ]
   },
   {
     id: 3,
     title: "Yoko Shiho Gatame",
-    audio: "./src/assets/audio/Yoko_Shiho_Gatame.mp3",
+    audio: "../assets/audio/Yoko_Shiho_Gatame.mp3",
     options: [
-      { img: "./src/assets/img/four_quarters_correct.png", isCorrect: true },
-      { img: "./src/assets/img/lengthwise_correct.png", isCorrect: false },
-      { img: "./src/assets/img/upper_correct.png", isCorrect: false }
+      { img: "../assets/img/four_quarters_correct.png", isCorrect: true },
+      { img: ../assets/img/lengthwise_correct.png", isCorrect: false },
+      { img: "../assets/img/upper_correct.png", isCorrect: false }
     ]
   },
   {
     id: 4,
     title: "Hidari Shizentai",
-    audio: "./src/assets/audio/Hidari_Shizentai.mp3",
+    audio: "../assets//audio/Hidari_Shizentai.mp3",
     options: [
-      { img: "./src/assets/img/left_grip_correct.png", isCorrect: true },
-      { img: "./src/assets/img/right_grip_correct.png", isCorrect: false },
-      { img: "./src/assets/img/standing_correct.png", isCorrect: false }
+      { img: "../assets/img/left_grip_correct.png", isCorrect: true },
+      { img: "../assets//right_grip_correct.png", isCorrect: false },
+      { img: "../assets/g/standing_correct.png", isCorrect: false }
     ]
   },
   {
