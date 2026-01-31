@@ -62,71 +62,71 @@ export const songs = [
        {
     id: 7,
     title: "Tachi-waza",
-    audio: "./assets/Audio/Tachi waza.mp3",
+    audio: "../assets/Audio/Tachi waza.mp3",
     options: [
-      { img: "./assets/img/standing_technique_correct.png", isCorrect: true },
-      { img: "./assets/img/left_grip_correct.png", isCorrect: false },
-      { img: "./assets/img/hold_down_correct.png", isCorrect: false }
+      { img: "../assets/img/standing_technique_correct.png", isCorrect: true },
+      { img: "../assets/img/left_grip_correct.png", isCorrect: false },
+      { img: "../assets/img/hold_down_correct.png", isCorrect: false }
     ]
   },
   {
     id: 8,
     title: "Kami-shiho-gatame",
-    audio: "./assets/Audio/Kami shiho gatame.mp3",
+    audio: "../assets/Audio/Kami shiho gatame.mp3",
     options: [
-      { img: "./assets/img/four_quarters_correct.png", isCorrect: false },
-      { img: "./assets/img/lengthwise_correct.png", isCorrect: false },
-      { img: "./assets/img/upper_correct.png", isCorrect: true }
+      { img: "../assets/img/four_quarters_correct.png", isCorrect: false },
+      { img: "../assets/img/lengthwise_correct.png", isCorrect: false },
+      { img: "../assets/img/upper_correct.png", isCorrect: true }
     ]
   },
   {
     id: 9,
     title: "Kumi-Kata",
-    audio: "./assets/Audio/Kami kata.mp3",
+    audio: "../assets/Audio/Kami kata.mp3",
     options: [
-      { img: "./assets/img/Gripping_correct.png", isCorrect: true },
-      { img: "./assets/img/left_grip_correct.png", isCorrect: false },
-      { img: "./assets/img/right_grip_correct.png", isCorrect: false }
+      { img: "../assets/img/Gripping_correct.png", isCorrect: true },
+      { img: "../assets/img/left_grip_correct.png", isCorrect: false },
+      { img: "../assets/img/right_grip_correct.png", isCorrect: false }
     ]
   },
   {
     id: 10,
     title: "Nage-Komi",
-    audio: "./assets/Audio/Nage Komi.mp3",
+    audio: "../assets/Audio/Nage Komi.mp3",
     options: [
-      { img: "./assets/img/major_inner_reaping_correct.png", isCorrect: false},
-      { img: "./assets/img/throwing_correct.png", isCorrect: true },
-      { img: "./assets/img/standing_correct.png", isCorrect: false }
+      { img: "../assets/img/major_inner_reaping_correct.png", isCorrect: false},
+      { img: "../assets/img/throwing_correct.png", isCorrect: true },
+      { img: "../assets/img/standing_correct.png", isCorrect: false }
     ]
   },
     {
     id: 11,
     title: "Mae Ukemi",
-    audio: "./assets/Audio/Mae Ukemi.mp3",
+    audio: "../assets/Audio/Mae Ukemi.mp3",
     options: [
-      { img: "./assets/img/front_breakfall_correct.png", isCorrect: true },
-      { img: "./assets/img/incorrect_ans_2.png", isCorrect: false },
-      { img: "./assets/img/incorrect_ans_3.png", isCorrect: false }
+      { img: "../assets/img/front_breakfall_correct.png", isCorrect: true },
+      { img: "../assets/img/incorrect_ans_2.png", isCorrect: false },
+      { img: "../assets/img/incorrect_ans_3.png", isCorrect: false }
     ]
   },
     {
     id: 12,
     title: "O-uchi-gari",
-    audio: "./assets/Audio/O uchi gari.mp3",
+    audio: "../assets/Audio/O uchi gari.mp3",
     options: [
-      { img: "./assets/img/four_quarters_correct.png", isCorrect: false },
-      { img: "./assets/img/major_inner_reaping_correct.png", isCorrect: true },
-      { img: "./assets/img/tai_correct.png", isCorrect: false }
+      { img: "../assets/img/four_quarters_correct.png", isCorrect: false },
+      { img: "../assets/img/major_inner_reaping_correct.png", isCorrect: true },
+      { img: "../assets/img/tai_correct.png", isCorrect: false }
     ]
   },
     {
     id: 13,
     title: "Tate-shiho-gatame",
-    audio: "./assets/Audio/Tate shiho gatame.mp3",
+    audio: "../assets/Audio/Tate shiho gatame.mp3",
     options: [
-      { img: "./assets/img/lengthwise_correct.png", isCorrect: true },
-      { img: "./assets/img/four_quarters_correct.png", isCorrect: false },
-      { img: "./assets/img/upper_correct.png", isCorrect: false }
+      { img: "../assets/img/lengthwise_correct.png", isCorrect: true },
+      { img: "../assets/img/four_quarters_correct.png", isCorrect: false },
+      { img: "../assets/img/upper_correct.png", isCorrect: false }
     ]
   }
 ]
