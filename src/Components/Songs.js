@@ -32,11 +32,11 @@ export const songs = [
   {
     id: 4,
     title: "Hidari Shizentai",
-    audio: "../assets//audio/Hidari_Shizentai.mp3",
+    audio: "../assets/audio/Hidari_Shizentai.mp3",
     options: [
       { img: "../assets/img/left_grip_correct.png", isCorrect: true },
-      { img: "../assets//right_grip_correct.png", isCorrect: false },
-      { img: "../assets/g/standing_correct.png", isCorrect: false }
+      { img: "../assets/img/right_grip_correct.png", isCorrect: false },
+      { img: "../assets/img/standing_correct.png", isCorrect: false }
     ]
   },
   {
