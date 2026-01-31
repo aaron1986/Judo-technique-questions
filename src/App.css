@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.image-grid {
+  display: flex;
+  gap: 1rem;
+}
+
+.image-grid img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
