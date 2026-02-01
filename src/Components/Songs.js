@@ -7,7 +7,7 @@ import MigiShizentai from '../assets/audio/Migi_Shizentai.mp3';
 import OsaekomiWaza from '../assets/audio/Osaekomi_Waza.mp3';
 import TachiWaza from '../assets/audio/Tachi_Waza.mp3';
 import KamiShihoGatame from '../assets/audio/Kami_Shiho_Gatame.mp3';
-import KumiKata from '../assets/audio/Kumi_Kata.mp3';
+import KumiKata from '../assets/audio/Kami_Kata.mp3';
 import NageKomi from '../assets/audio/Nage_Komi.mp3';
 import MaeUkemi from '../assets/audio/Mae_Ukemi.mp3';
 import OUchiGari from '../assets/audio/O_Uchi_Gari.mp3';
